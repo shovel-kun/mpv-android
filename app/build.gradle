@@ -42,7 +42,7 @@ def getVersionName = { ->
 }
 
 def getGroupId = { ->
-    return "com.github.abdallah"
+    return "com.github.shovel-kun"
 }
 
 task sourceJar(type: Jar) {
